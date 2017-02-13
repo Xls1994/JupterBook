@@ -11,8 +11,10 @@ IPython是自己简单写代码片段快速验证的好工具，也在科学计�
 
 目前，最新的IPython 4，仅支持python2.7或3.3以上的版本。
 
-安装和运行IPython及Notebook都是很简单的，见：<br>
+    
     pip install ipython 
-    pip install notebook
-    ipython    #开启交互式IPython
+    pip install notebook 
+    ipython    #开启交互式IPython    
     jupyter notebook    #默认监听localhost:8888 并自动打开浏览器
+   
+    
