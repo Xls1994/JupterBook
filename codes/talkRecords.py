@@ -7,7 +7,8 @@ from wordcloud import WordCloud
 '''
 pip install jieba
 pip install wordcloud
-generator wordcloud from text
+generator wordcloud from text by idf
+
 '''
 file = codecs.open(u"alice.txt",'r')
 content =file.read()
